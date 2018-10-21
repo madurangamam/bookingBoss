@@ -5,9 +5,6 @@ import org.springframework.stereotype.Repository;
 
 import com.helix.leisure.model.Event;
 
-/**
- * Created by Madhawa Maduranga.
- */
 @Repository
 public interface ProductRepository extends JpaRepository<Event, Long> {
 
