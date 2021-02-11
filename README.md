@@ -1,9 +1,9 @@
-# bookingBoss Project
+# bookingBoss Project 
 
 This project fullfills the requirements specified in following codility assignment.  
 https://github.com/BookingBoss/java-test
 
-#### Techonlogy Stack  
+#### Techonlogy STACK 
 
 - Java 1.8
 - Maven as build tool
