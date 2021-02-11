@@ -7,7 +7,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Helix leisure Assignment test 2</name>
+	<name>Helix leisure Assignment test 2 changed by develop</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
